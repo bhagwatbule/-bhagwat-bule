@@ -1,2 +1,2 @@
-# -bhagwat-bule
-this is my first Get repository
+# Bhagwat-bule
+This is my first Get repository
